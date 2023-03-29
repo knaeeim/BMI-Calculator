@@ -113,6 +113,12 @@ button#calculateBtn:hover{
 }
 
 #comment{
-    color:#efab0d;
+    color:#08df36;
     font-weight: 800;
+}
+
+#footertag{
+    position: absolute;
+    text-align: center;
+    
 }
